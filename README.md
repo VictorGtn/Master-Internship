@@ -32,7 +32,6 @@ This repository contains the report and presentation from an internship project 
 
 - `report.pdf`: Detailed internship report
 - `presentation.pdf`: Slides from the internship presentation
-- `code/`: (If applicable) Implementation of key models and experiments
 
 ## Conclusion
 

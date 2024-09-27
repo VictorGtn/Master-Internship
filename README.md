@@ -41,6 +41,7 @@ This internship project has laid a solid foundation for integrating 3D modules w
 
 Special thanks to Iktos for providing the opportunity and resources for this internship project.
 
+**Grade : 19/20**
 ---
 
 For more information about Iktos and their work in AI-driven drug discovery, please visit [https://www.iktos.ai/](https://www.iktos.ai/)
